@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 646 409" style="enable-background:new 0 0 646 409;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F2F5FA;}
+	.st1{fill:none;stroke:#00415D;stroke-width:2;}
+	.st2{fill:#00415D;}
+	.st3{font-family:'Menlo-Bold';}
+	.st4{font-size:20px;}
+	.st5{fill:#00415D;stroke:#00415D;stroke-width:2;stroke-linecap:square;}
+	.st6{fill:#00415D;stroke:#00415D;stroke-width:2.5;stroke-linecap:square;}
+	.st7{font-family:'ProximaNova-Bold';}
+	.st8{fill:#FFFFFF;}
+</style>
+<title>Slice 2</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-3">
+	<g id="Rectangle">
+		<g>
+			<path id="path-1" class="st0" d="M32.5,5h134C181.7,5,194,17.3,194,32.5l0,0c0,15.2-12.3,27.5-27.5,27.5h-134
+				C17.3,60,5,47.7,5,32.5l0,0C5,17.3,17.3,5,32.5,5z"/>
+		</g>
+		<path class="st1" d="M32.5,6h134C181.1,6,193,17.9,193,32.5l0,0c0,14.6-11.9,26.5-26.5,26.5h-134C17.9,59,6,47.1,6,32.5l0,0
+			C6,17.9,17.9,6,32.5,6z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 21 38)" class="st2 st3 st4">.initialize()</text>
+	<path id="Line" class="st5" d="M99.5,60.5V104"/>
+	<path id="Line-decoration-1" class="st5" d="M99.5,104l3-10.8h-6L99.5,104z"/>
+	<path id="Line-Copy-6" class="st6" d="M425,179h64"/>
+	<path id="Line-Copy-6-decoration-1" class="st6" d="M489,179l-10.8-3v6L489,179z"/>
+	<path id="Line-Copy-5" class="st6" d="M179,179h78"/>
+	<path id="Line-Copy-5-decoration-1" class="st6" d="M257,179l-10.8-3v6L257,179z"/>
+	<path id="Line-Copy-3" class="st5" d="M99.5,249.5V302"/>
+	<path id="Line-Copy-3-decoration-1" class="st5" d="M99.5,302l3-10.8h-6L99.5,302z"/>
+	<path id="Line-Copy-7" class="st5" d="M342.5,249.5V302"/>
+	<path id="Line-Copy-7-decoration-1" class="st5" d="M342.5,302l3-10.8h-6L342.5,302z"/>
+	<g id="Rectangle-2-Copy-4">
+		<g>
+			<rect id="path-2" x="5" y="307" class="st0" width="189" height="97"/>
+		</g>
+		<rect x="6" y="308" class="st1" width="187" height="95"/>
+	</g>
+	<g id="Rectangle-2-Copy-5">
+		<g>
+			<rect id="path-3" x="248" y="307" class="st0" width="189" height="97"/>
+		</g>
+		<rect x="249" y="308" class="st1" width="187" height="95"/>
+	</g>
+	<g id="Rectangle-2-Copy-6">
+		<g>
+			<rect id="path-4" x="495" y="130" class="st0" width="146" height="97"/>
+		</g>
+		<rect x="496" y="131" class="st1" width="144" height="95"/>
+	</g>
+	<g id="Rectangle-2-Copy-2">
+		<g>
+			<polygon id="path-5" class="st0" points="99,109 180,179 99,249 18,179 			"/>
+		</g>
+		<path class="st1" d="M99,110.3L19.5,179L99,247.7l79.5-68.7L99,110.3z"/>
+	</g>
+	<g id="Rectangle-2-Copy-3">
+		<g>
+			<polygon id="path-6" class="st0" points="343,109 424,179 343,249 262,179 			"/>
+		</g>
+		<path class="st1" d="M343,110.3L263.5,179l79.5,68.7l79.5-68.7L343,110.3z"/>
+	</g>
+	<text transform="matrix(1 0 0 1 34.41 336)" class="st2 st7 st4">Initialize client</text>
+	<text transform="matrix(1 0 0 1 164.5876 336)" class="st2 st7 st4"> </text>
+	<text transform="matrix(1 0 0 1 44.94 361)" class="st2 st7 st4">with cached</text>
+	<text transform="matrix(1 0 0 1 154.0587 361)" class="st2 st7 st4"> </text>
+	<text transform="matrix(1 0 0 1 65.54 386)" class="st2 st7 st4">datafile</text>
+	<text transform="matrix(1 0 0 1 277.41 336)" class="st2 st7 st4">Initialize client</text>
+	<text transform="matrix(1 0 0 1 407.5876 336)" class="st2 st7 st4"> </text>
+	<text transform="matrix(1 0 0 1 283.32 361)" class="st2 st7 st4">with bundled</text>
+	<text transform="matrix(1 0 0 1 401.6787 361)" class="st2 st7 st4"> </text>
+	<text transform="matrix(1 0 0 1 308.54 386)" class="st2 st7 st4">datafile</text>
+	<text transform="matrix(1 0 0 1 509.1 172)" class="st2 st7 st4">Client fails to</text>
+	<text transform="matrix(1 0 0 1 627.8982 172)" class="st2 st7 st4"> </text>
+	<text transform="matrix(1 0 0 1 530.9299 197)" class="st2 st7 st4">initialize</text>
+	<text transform="matrix(1 0 0 1 65.02 172)" class="st2 st7 st4">Cached</text>
+	<text transform="matrix(1 0 0 1 133.9794 172)" class="st2 st7 st4"> </text>
+	<text transform="matrix(1 0 0 1 60.09 197)" class="st2 st7 st4">Datafile?</text>
+	<text transform="matrix(1 0 0 1 304.51 172)" class="st2 st7 st4">Bundled</text>
+	<text transform="matrix(1 0 0 1 380.4893 172)" class="st2 st7 st4"> </text>
+	<text transform="matrix(1 0 0 1 303.09 197)" class="st2 st7 st4">Datafile?</text>
+	<rect id="Rectangle-3-Copy-4" x="436" y="167" class="st8" width="31" height="24"/>
+	<rect id="Rectangle-3-Copy-3" x="196" y="167" class="st8" width="31" height="24"/>
+	<rect id="Rectangle-3-Copy" x="72" y="262" class="st8" width="55" height="17"/>
+	<rect id="Rectangle-3-Copy-5" x="315" y="261" class="st8" width="55" height="17"/>
+	<text transform="matrix(1 0 0 1 439.47 185)" class="st2 st7 st4">No</text>
+	<text transform="matrix(1 0 0 1 199.47 185)" class="st2 st7 st4">No</text>
+	<text transform="matrix(1 0 0 1 83.49 276)" class="st2 st7 st4">Yes</text>
+	<text transform="matrix(1 0 0 1 327.49 275)" class="st2 st7 st4">Yes</text>
+</g>
+</svg>

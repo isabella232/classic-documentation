@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="691px" height="821px" viewBox="0 0 691 821" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="26" y="5" width="189" height="97" rx="48.5"></rect>
+        <rect id="path-2" x="26" y="153" width="189" height="97"></rect>
+        <rect id="path-3" x="26" y="696" width="189" height="97"></rect>
+        <rect id="path-4" x="271" y="696" width="189" height="97"></rect>
+        <rect id="path-5" x="517" y="520" width="146" height="97"></rect>
+        <rect id="path-6" x="271" y="320" width="189" height="97"></rect>
+        <polygon id="path-7" points="120 298 201 368 120 438 39 368"></polygon>
+        <polygon id="path-8" points="120 498 201 568 120 638 39 568"></polygon>
+        <polygon id="path-9" points="366 498 447 568 366 638 285 568"></polygon>
+    </defs>
+    <g id="Asynchronous-initialization" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M5,471 L686,471 L686,815 L5,815 L5,471 Z" id="Rectangle-4" stroke="#8CBBAD" stroke-width="3" stroke-dasharray="3,3,3,3"></path>
+        <g id="Rectangle">
+            <use fill="#F2F5FA" fill-rule="evenodd" xlink:href="#path-1"></use>
+            <rect stroke="#00415D" stroke-width="2" x="27" y="6" width="187" height="95" rx="47.5"></rect>
+        </g>
+        <text id=".initialize()" font-family="Menlo-Bold, Menlo" font-size="20" font-weight="bold" fill="#00415D">
+            <tspan x="42" y="43">.initialize()</tspan>
+        </text>
+        <text id="include-listener" font-family="ProximaNova-Regular, Proxima Nova" font-size="20" font-weight="normal" fill="#00415D">
+            <tspan x="53" y="73">include listener</tspan>
+        </text>
+        <path d="M120.5,103.5 L120.5,147" id="Line" stroke="#00415D" stroke-width="2" fill="#00415D" stroke-linecap="square"></path>
+        <path id="Line-decoration-1" d="M120.5,147 L123.5,136.2 L117.5,136.2 L120.5,147 Z" stroke="#00415D" stroke-width="2" fill="#00415D" stroke-linecap="square"></path>
+        <path d="M120.5,251.5 L120.5,293" id="Line-Copy" stroke="#00415D" stroke-width="2" fill="#00415D" stroke-linecap="square"></path>
+        <path id="Line-Copy-decoration-1" d="M120.5,293 L123.5,282.2 L117.5,282.2 L120.5,293 Z" stroke="#00415D" stroke-width="2" fill="#00415D" stroke-linecap="square"></path>
+        <path d="M202,368 L266,368" id="Line-Copy-4" stroke="#00415D" stroke-width="2.5" fill="#00415D" stroke-linecap="square"></path>
+        <path id="Line-Copy-4-decoration-1" d="M266,368 L255.2,365 L255.2,371 L266,368 Z" stroke="#00415D" stroke-width="2.5" fill="#00415D" stroke-linecap="square"></path>
+        <path d="M447,568 L511,568" id="Line-Copy-6" stroke="#00415D" stroke-width="2.5" fill="#00415D" stroke-linecap="square"></path>
+        <path id="Line-Copy-6-decoration-1" d="M511,568 L500.2,565 L500.2,571 L511,568 Z" stroke="#00415D" stroke-width="2.5" fill="#00415D" stroke-linecap="square"></path>
+        <path d="M201,568 L279,568" id="Line-Copy-5" stroke="#00415D" stroke-width="2.5" fill="#00415D" stroke-linecap="square"></path>
+        <path id="Line-Copy-5-decoration-1" d="M279,568 L268.2,565 L268.2,571 L279,568 Z" stroke="#00415D" stroke-width="2.5" fill="#00415D" stroke-linecap="square"></path>
+        <path d="M120.5,436.5 L120.5,492" id="Line-Copy-2" stroke="#00415D" stroke-width="2" fill="#00415D" stroke-linecap="square"></path>
+        <path id="Line-Copy-2-decoration-1" d="M120.5,492 L123.5,481.2 L117.5,481.2 L120.5,492 Z" stroke="#00415D" stroke-width="2" fill="#00415D" stroke-linecap="square"></path>
+        <path d="M120.5,635.5 L120.5,688" id="Line-Copy-3" stroke="#00415D" stroke-width="2" fill="#00415D" stroke-linecap="square"></path>
+        <path id="Line-Copy-3-decoration-1" d="M120.5,688 L123.5,677.2 L117.5,677.2 L120.5,688 Z" stroke="#00415D" stroke-width="2" fill="#00415D" stroke-linecap="square"></path>
+        <path d="M365.5,637.5 L365.5,690" id="Line-Copy-7" stroke="#00415D" stroke-width="2" fill="#00415D" stroke-linecap="square"></path>
+        <path id="Line-Copy-7-decoration-1" d="M365.5,690 L368.5,679.2 L362.5,679.2 L365.5,690 Z" stroke="#00415D" stroke-width="2" fill="#00415D" stroke-linecap="square"></path>
+        <g id="Rectangle-2">
+            <use fill="#F2F5FA" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <rect stroke="#00415D" stroke-width="2" x="27" y="154" width="187" height="95"></rect>
+        </g>
+        <g id="Rectangle-2-Copy-4">
+            <use fill="#F2F5FA" fill-rule="evenodd" xlink:href="#path-3"></use>
+            <rect stroke="#00415D" stroke-width="2" x="27" y="697" width="187" height="95"></rect>
+        </g>
+        <g id="Rectangle-2-Copy-5">
+            <use fill="#F2F5FA" fill-rule="evenodd" xlink:href="#path-4"></use>
+            <rect stroke="#00415D" stroke-width="2" x="272" y="697" width="187" height="95"></rect>
+        </g>
+        <g id="Rectangle-2-Copy-6">
+            <use fill="#F2F5FA" fill-rule="evenodd" xlink:href="#path-5"></use>
+            <rect stroke="#00415D" stroke-width="2" x="518" y="521" width="144" height="95"></rect>
+        </g>
+        <g id="Rectangle-2-Copy-7">
+            <use fill="#F2F5FA" fill-rule="evenodd" xlink:href="#path-6"></use>
+            <rect stroke="#00415D" stroke-width="2" x="272" y="321" width="187" height="95"></rect>
+        </g>
+        <g id="Rectangle-2-Copy">
+            <use fill="#F2F5FA" fill-rule="evenodd" xlink:href="#path-7"></use>
+            <path stroke="#00415D" stroke-width="2" d="M120,299.32168 L40.5293723,368 L120,436.67832 L199.470628,368 L120,299.32168 Z"></path>
+        </g>
+        <g id="Rectangle-2-Copy-2">
+            <use fill="#F2F5FA" fill-rule="evenodd" xlink:href="#path-8"></use>
+            <path stroke="#00415D" stroke-width="2" d="M120,499.32168 L40.5293723,568 L120,636.67832 L199.470628,568 L120,499.32168 Z"></path>
+        </g>
+        <g id="Rectangle-2-Copy-3">
+            <use fill="#F2F5FA" fill-rule="evenodd" xlink:href="#path-9"></use>
+            <path stroke="#00415D" stroke-width="2" d="M366,499.32168 L286.529372,568 L366,636.67832 L445.470628,568 L366,499.32168 Z"></path>
+        </g>
+        <text id="Request-Datafile-Dow" font-family="ProximaNova-Bold, Proxima Nova" font-size="20" font-weight="bold" fill="#00415D">
+            <tspan x="45.2" y="189">Request Datafile</tspan>
+            <tspan x="74.04" y="220">Download</tspan>
+        </text>
+        <text id="Initialize-client-wi" font-family="ProximaNova-Bold, Proxima Nova" font-size="20" font-weight="bold" fill="#00415D">
+            <tspan x="55.41" y="725">Initialize client</tspan>
+            <tspan x="65.94" y="750">with cached</tspan>
+            <tspan x="86.54" y="775">datafile</tspan>
+        </text>
+        <text id="Initialize-client-wi" font-family="ProximaNova-Bold, Proxima Nova" font-size="20" font-weight="bold" fill="#00415D">
+            <tspan x="300.41" y="725">Initialize client</tspan>
+            <tspan x="306.32" y="750">with bundled</tspan>
+            <tspan x="331.54" y="775">datafile</tspan>
+        </text>
+        <text id="Client-fails-to-init" font-family="ProximaNova-Bold, Proxima Nova" font-size="20" font-weight="bold" fill="#00415D">
+            <tspan x="531.1" y="562">Client fails to</tspan>
+            <tspan x="552.93" y="587">initialize</tspan>
+        </text>
+        <text id="Client-initializes-w" font-family="ProximaNova-Bold, Proxima Nova" font-size="20" font-weight="bold" fill="#00415D">
+            <tspan x="294.47" y="349">Client initializes</tspan>
+            <tspan x="288.01" y="374">with downloaded </tspan>
+            <tspan x="332.04" y="399">datafile</tspan>
+        </text>
+        <text id="Error-or-No-Datafile" font-family="ProximaNova-Bold, Proxima Nova" font-size="20" font-weight="bold" fill="#00415D">
+            <tspan x="86.05" y="349">Error </tspan>
+            <tspan x="135.91" y="349" font-family="ProximaNova-Regular, Proxima Nova" font-weight="normal">or</tspan>
+            <tspan x="69.13" y="374">No Datafile</tspan>
+            <tspan x="77.31" y="399">Updates?</tspan>
+        </text>
+        <text id="Cached-Datafile-Avai" font-family="ProximaNova-Bold, Proxima Nova" font-size="20" font-weight="bold" fill="#00415D">
+            <tspan x="86.52" y="547">Cached</tspan>
+            <tspan x="85.72" y="572">Datafile</tspan>
+            <tspan x="75.26" y="597">Available?</tspan>
+        </text>
+        <text id="Bundled-Datafile-Ava" font-family="ProximaNova-Bold, Proxima Nova" font-size="20" font-weight="bold" fill="#00415D">
+            <tspan x="328.01" y="547">Bundled</tspan>
+            <tspan x="330.72" y="572">Datafile</tspan>
+            <tspan x="320.26" y="597">Available?</tspan>
+        </text>
+        <rect id="Rectangle-3" fill="#FFFFFF" x="93" y="451" width="55" height="17"></rect>
+        <rect id="Rectangle-3-Copy-2" fill="#FFFFFF" x="213" y="356" width="31" height="24"></rect>
+        <rect id="Rectangle-3-Copy-4" fill="#FFFFFF" x="458" y="556" width="31" height="24"></rect>
+        <rect id="Rectangle-3-Copy-3" fill="#FFFFFF" x="219" y="556" width="31" height="24"></rect>
+        <rect id="Rectangle-3-Copy" fill="#FFFFFF" x="93" y="648" width="55" height="17"></rect>
+        <rect id="Rectangle-3-Copy-5" fill="#FFFFFF" x="338" y="649" width="55" height="17"></rect>
+        <text id="Yes" font-family="ProximaNova-Bold, Proxima Nova" font-size="20" font-weight="bold" fill="#00415D">
+            <tspan x="104.49" y="465">Yes</tspan>
+        </text>
+        <text id="No" font-family="ProximaNova-Bold, Proxima Nova" font-size="20" font-weight="bold" fill="#00415D">
+            <tspan x="216.47" y="374">No</tspan>
+        </text>
+        <text id="No-Copy-2" font-family="ProximaNova-Bold, Proxima Nova" font-size="20" font-weight="bold" fill="#00415D">
+            <tspan x="461.47" y="574">No</tspan>
+        </text>
+        <text id="No-Copy" font-family="ProximaNova-Bold, Proxima Nova" font-size="20" font-weight="bold" fill="#00415D">
+            <tspan x="222.47" y="574">No</tspan>
+        </text>
+        <text id="Yes" font-family="ProximaNova-Bold, Proxima Nova" font-size="20" font-weight="bold" fill="#00415D">
+            <tspan x="104.49" y="661">Yes</tspan>
+        </text>
+        <text id="Yes" font-family="ProximaNova-Bold, Proxima Nova" font-size="20" font-weight="bold" fill="#00415D">
+            <tspan x="350.49" y="662">Yes</tspan>
+        </text>
+        <text id="Same-as-synchronous" font-family="ProximaNova-Bold, Proxima Nova" font-size="20" font-weight="bold" fill="#8CBBAD">
+            <tspan x="367.82" y="492">Same as synchronous initialization</tspan>
+        </text>
+    </g>
+</svg>
