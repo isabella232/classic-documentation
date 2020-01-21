@@ -1,0 +1,11 @@
+timestamp	project_id	campaign_id	experiment_id	variation_id	layer_holdback	audience_names	end_user_id	uuid	session_id	snippet_revision	user_ip	user_agent	user_engine	user_engine_version	referer	global_holdback	event_type	event_name	user_features	active_views	event_features	event_metrics
+1475775125622	1234567890	2345678901	3456789012	4567890123	false	[]	jon				199.152.207.197	python-requests/2.6.2 CPython/2.7.10 Darwin/14.5.0	python-sdk	1.0.0		false			[]			
+1475775197554	1234567890	2345678901	3456789012	4567890123	false	[]	joe				199.152.207.197	python-requests/2.6.2 CPython/2.7.10 Darwin/14.5.0	python-sdk	1.0.0		false			[]			
+1475775114953	1234567890	2345678901	3456789012	4567890123	false	[]	joe				199.152.207.197	python-requests/2.6.2 CPython/2.7.10 Darwin/14.5.0	python-sdk	1.0.0		false			[]			
+1475775192831	1234567890	2345678901	3456789012	4567890123	false	[]	user_1				199.152.207.197	python-requests/2.6.2 CPython/2.7.10 Darwin/14.5.0	python-sdk	1.0.0		false			[]			
+1475775318763	1234567890	2345678901	3456789012	4567890123	false	[]	user_1				199.152.207.197	python-requests/2.6.2 CPython/2.7.10 Darwin/14.5.0	python-sdk	1.0.0		false		CLICK_TO_BUY	[]	[]	[]	[]
+1475775308525	1234567890	2345678901	3456789012	4567890123	false	[]	james				199.152.207.197	python-requests/2.6.2 CPython/2.7.10 Darwin/14.5.0	python-sdk	1.0.0		false			[]			
+1475775313927	1234567890	2345678901	3456789012	4567890123	false	[]	user_2				199.152.207.197	python-requests/2.6.2 CPython/2.7.10 Darwin/14.5.0	python-sdk	1.0.0		false			[]			
+1475775222117	1234567890	2345678901	3456789012	4567890123	false	[]	user_3				199.152.207.197	python-requests/2.6.2 CPython/2.7.10 Darwin/14.5.0	python-sdk	1.0.0		false		CLICK_TO_BUY	[]	[]	[]	[]
+1475775122460	1234567890	2345678901	3456789012	4567890123	false	[]	user_4				199.152.207.197	python-requests/2.6.2 CPython/2.7.10 Darwin/14.5.0	python-sdk	1.0.0		false			[]			
+1475774349507	1234567890	2345678901	3456789012	4567890123	false	[]	sally				199.152.207.197	python-requests/2.11.1	python-sdk	1.0.0		false			[]			
